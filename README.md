@@ -3,7 +3,7 @@
 Real-time stock market dashboard with AI-powered sentiment analysis built with Python.
 
 ## 🚀 Live Demo
-Coming soon...
+https://web-production-e48ee.up.railway.app
 
 ## 📸 Screenshots
 (Add screenshots here)
